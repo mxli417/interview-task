@@ -106,6 +106,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <style>
@@ -230,4 +231,5 @@ h2{
   background-color: white;
   font-family: 'Roboto', sans-serif;
 }
+
 </style>
